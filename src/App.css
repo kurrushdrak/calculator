@@ -1,0 +1,63 @@
+.container{
+  text-align: center;
+
+}
+.card{
+  margin: 10px 300px 10px 300px;
+}
+
+button{
+  padding: 15px 35px;
+  text-size-adjust: 22px;
+  text-emphasis-style: bold;
+  box-sizing: border-box;
+  -moz-box-align: center;
+  box-sizing: content-box;
+  box-sizing: initial;
+  box-sizing:calc();
+  width: 25px;
+  border-radius: 5px;
+font-style: italic;
+font-weight: 600;
+  
+
+
+  }
+
+input{
+  padding:10px 120px;
+  background-color: rgb(215, 215, 231);
+  border-radius: 5px;
+}
+.card-body{
+  background-color: rgb(217, 230, 230);
+  border-radius: 5px;
+ 
+}
+
+
+
+.first{
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border-radius: 5px;
+}
+.second{
+  margin-bottom: 10px;
+}
+.third{
+  margin-bottom: 10px;
+}
+.fourth{
+  margin-bottom: 10px;
+}
+.fifth{
+  margin-bottom: 10px;
+}
+.six{
+  margin-bottom: 10px;
+}
+::-webkit-input-placeholder {
+  text-align: left;
+  color: rgb(70, 20, 185);
+}
